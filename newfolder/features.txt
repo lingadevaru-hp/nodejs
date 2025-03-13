@@ -1,0 +1,7 @@
+TODO APP
+ 
+ 1.get all TODO - id, title, desc, datetime, stab
+ 2. add new TODO
+ 3.delete TODO
+ 6.update TODO
+ 5.get TODO by search key

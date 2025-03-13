@@ -62,9 +62,6 @@ If you would like to contribute to this project, please fork the repository and 
 
 This project is licensed under the MIT License.
 
-## Contact
-
-For any questions or feedback, please contact us at [your-email@example.com].
 
 ## Running the Application
 
@@ -78,4 +75,4 @@ For any questions or feedback, please contact us at [your-email@example.com].
 
 ## Contact
 
-For any queries, contact Lingadevaru at [contact@lingadevaru.in](mailto:contact@lingadevaru.in). 
+For any queries, contact at [contact@lingadevaru.in](mailto:contact@lingadevaru.in). 

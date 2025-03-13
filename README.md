@@ -5,7 +5,7 @@ This is a simple Node.js application that serves a list of todo items.
 ## Installation Guide
 
 1. **Install Node.js**:
-   - Go to the [Node.js website](https://nodejs.org/).
+   - Go to the [Node.js](https://nodejs.org/).
    - Download the latest version for your operating system (Windows, macOS, or Linux).
    - Follow the installation instructions provided on the website.
 
@@ -56,7 +56,7 @@ This is a simple Node.js application that serves a list of todo items.
 
 ## Contributing
 
-If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. We welcome contributions from the community!
+If you would like to contribute to this project, fork the repository and submit a pull request with your changes.
 
 ## License
 
